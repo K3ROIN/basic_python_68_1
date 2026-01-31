@@ -13,7 +13,7 @@ git init
 git remote add origin https://github.com/K3ROIN/basic_python_68_1.git
 
 git config --global user.name "K3ROIN"
-git config --global user.email "kemanunramungtong@gmail.com"
+git config --global user.email "kemanunramungtong"
 
 git add .
 git commit -m "your message"
